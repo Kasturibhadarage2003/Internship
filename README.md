@@ -1,0 +1,1 @@
+The project is a Java-based inventory management system designed to streamline inventory tracking and management for businesses. It leverages MongoDB as the database backend to store and manage inventory data efficiently.
